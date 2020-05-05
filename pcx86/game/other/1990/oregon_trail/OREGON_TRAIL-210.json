@@ -2,6 +2,7 @@
 "imageInfo": {
   "type": "CHS",
   "name": "OREGON_TRAIL-210.img",
+  "format": "PC1200K",
   "hash": "77ac558380609b27cadb2fdf84fc9b24",
   "checksum": -85408368,
   "cylinders": 80,
@@ -10,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 1228800,
   "version": "2.00",
-  "repository": "pcjs.org",
-  "diskdump.js": "--disk OREGON_TRAIL-210.img --output OREGON_TRAIL-210.json"
+  "repository": "pcjs.org"
 },
 "volTable": [
   {

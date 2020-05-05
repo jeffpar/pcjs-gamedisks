@@ -2,6 +2,7 @@
 "imageInfo": {
   "type": "CHS",
   "name": "1WOLF-V14.img",
+  "format": "PC1200K",
   "hash": "b2e9a3a1456e705e29c6de6a80f1b203",
   "checksum": -1291326390,
   "cylinders": 80,
@@ -10,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 1228800,
   "version": "2.00",
-  "repository": "pcjs.org",
-  "diskdump.js": "--disk 1WOLF-V14.img --output 1WOLF-V14.json"
+  "repository": "pcjs.org"
 },
 "volTable": [
   {

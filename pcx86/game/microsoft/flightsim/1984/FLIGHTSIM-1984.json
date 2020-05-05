@@ -2,6 +2,7 @@
 "imageInfo": {
   "type": "CHS",
   "name": "FLIGHTSIM-1984",
+  "format": "PC320K",
   "hash": "none",
   "checksum": 500873747,
   "cylinders": 40,
@@ -10,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 327680,
   "version": "2.00",
-  "repository": "pcjs.org",
-  "diskdump.js": "--dir FLIGHTSIM-1984 --output FLIGHTSIM-1984.json"
+  "repository": "pcjs.org"
 },
 "volTable": [
   {

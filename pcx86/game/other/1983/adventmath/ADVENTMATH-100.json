@@ -2,6 +2,7 @@
 "imageInfo": {
   "type": "CHS",
   "name": "ADVENTMATH-100.img",
+  "format": "PC160K",
   "hash": "fb1c4d22b2488a971118d656423036d5",
   "checksum": 1528900321,
   "cylinders": 40,
@@ -10,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 163840,
   "version": "2.00",
-  "repository": "pcjs.org",
-  "diskdump.js": "--disk ADVENTMATH-100.img --output ADVENTMATH-100.json"
+  "repository": "pcjs.org"
 },
 "volTable": [
   {

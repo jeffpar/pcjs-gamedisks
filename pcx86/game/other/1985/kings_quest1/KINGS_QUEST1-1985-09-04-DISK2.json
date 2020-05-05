@@ -2,6 +2,7 @@
 "imageInfo": {
   "type": "CHS",
   "name": "KINGS_QUEST1-1985-09-04-DISK2.img",
+  "format": "PC360K",
   "hash": "c36427342363fcccb1120c4f4676ad73",
   "checksum": -1220189853,
   "cylinders": 40,
@@ -10,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 368640,
   "version": "2.00",
-  "repository": "pcjs.org",
-  "diskdump.js": "--disk KINGS_QUEST1-1985-09-04-DISK2.img --output KINGS_QUEST1-1985-09-04-DISK2.json"
+  "repository": "pcjs.org"
 },
 "volTable": [
   {

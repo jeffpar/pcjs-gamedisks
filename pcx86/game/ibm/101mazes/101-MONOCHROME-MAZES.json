@@ -2,6 +2,7 @@
 "imageInfo": {
   "type": "CHS",
   "name": "101-MONOCHROME-MAZES.img",
+  "format": "PC160K",
   "hash": "a26df2b103a9573769f019f167fc0fea",
   "checksum": 1202787824,
   "cylinders": 40,
@@ -11,8 +12,7 @@
   "diskSize": 163840,
   "bootSector": "[0,235,39,144,8,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]",
   "version": "2.00",
-  "repository": "pcjs.org",
-  "diskdump.js": "--disk 101-MONOCHROME-MAZES.img --output 101-MONOCHROME-MAZES.json"
+  "repository": "pcjs.org"
 },
 "volTable": [
   {
