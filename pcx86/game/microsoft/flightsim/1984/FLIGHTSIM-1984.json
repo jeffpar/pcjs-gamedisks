@@ -31,7 +31,7 @@
   }
 ],
 "fileTable": [
-  {"path":"/FLIGHTSI.M","attr":"0x08","date":"1989-09-27 03:00:00"},
+  {"path":"/FLIGHTSIM","attr":"0x08","date":"1989-09-27 03:00:00"},
   {"hash":"3a7c32594f174ae943c17cc3b23a6c34","path":"/FS.EXE","attr":"0x20","date":"1987-06-22 17:33:00","size":6917},
   {"hash":"d94eea83259d1658bb73da1ca3f59c16","path":"/FS.HLP","attr":"0x20","date":"1987-06-22 17:33:02","size":3840},
   {"hash":"937e8d2d244813ae103e941863bb0000","path":"/FS001.DAT","attr":"0x20","date":"1987-06-22 17:31:46","size":39936},
