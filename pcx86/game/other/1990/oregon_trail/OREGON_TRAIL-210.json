@@ -10,8 +10,9 @@
   "trackDefault": 15,
   "sectorDefault": 512,
   "diskSize": 1228800,
-  "version": "2.00",
-  "repository": "pcjs.org"
+  "version": "2.10",
+  "repository": "pcjs.org",
+  "archive": "/gamedisks/pcx86/game/other/1990/oregon_trail/archive/OREGON_TRAIL-210.img"
 },
 "volTable": [
   {

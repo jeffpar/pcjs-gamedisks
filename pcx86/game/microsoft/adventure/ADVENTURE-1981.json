@@ -10,8 +10,9 @@
   "trackDefault": 9,
   "sectorDefault": 512,
   "diskSize": 184320,
-  "version": "2.00",
-  "repository": "pcjs.org"
+  "version": "2.10",
+  "repository": "pcjs.org",
+  "archive": "/gamedisks/pcx86/game/microsoft/adventure/archive/ADVENTURE-1981.img"
 },
 "volTable": [
   {

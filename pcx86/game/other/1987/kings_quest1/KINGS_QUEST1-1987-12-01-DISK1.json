@@ -3,7 +3,7 @@
   "type": "CHS",
   "name": "KINGS_QUEST1-1987-12-01-DISK1.img",
   "format": "PC360K",
-  "hash": "cb5e2622929306f4a180cad830afd8d1",
+  "hash": "07e86dc9e538614c673a1bed6ab9c92c",
   "checksum": 1210450914,
   "cylinders": 40,
   "heads": 2,
@@ -11,8 +11,10 @@
   "sectorDefault": 512,
   "diskSize": 368640,
   "bootSector": "[0,235,52,144,73,66,77,32,32,51,46,51,0,2,2,1,0,2,112,0,208,2,253,2,0,9,0,2,0,0,0,0,0,0,0,0,0]",
-  "version": "2.00",
-  "repository": "pcjs.org"
+  "version": "2.10",
+  "repository": "pcjs.org",
+  "archive": "/gamedisks/pcx86/game/other/1987/kings_quest1/archive/KINGS_QUEST1-1987-12-01-DISK1.img",
+  "source": "http://www.r-09.net/stuff/index.php?dir=Floppy"
 },
 "volTable": [
   {

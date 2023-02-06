@@ -3,15 +3,16 @@
   "type": "CHS",
   "name": "KEEN1-V11",
   "format": "PC320K",
-  "hash": "none",
+  "hash": "f6b7b4057aeac1e9d9cafc7473ee4cdc",
   "checksum": -1458762620,
   "cylinders": 40,
   "heads": 2,
   "trackDefault": 8,
   "sectorDefault": 512,
   "diskSize": 327680,
-  "version": "2.00",
-  "repository": "pcjs.org"
+  "version": "2.10",
+  "repository": "pcjs.org",
+  "archive": "/gamedisks/pcx86/game/id/commander_keen/archive/KEEN1-V11/"
 },
 "volTable": [
   {

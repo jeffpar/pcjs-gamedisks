@@ -3,15 +3,16 @@
   "type": "CHS",
   "name": "ROGUE-1985",
   "format": "PC160K",
-  "hash": "none",
+  "hash": "0888f6af20d4d27ac3e62043d20577b2",
   "checksum": -1472869980,
   "cylinders": 40,
   "heads": 1,
   "trackDefault": 8,
   "sectorDefault": 512,
   "diskSize": 163840,
-  "version": "2.00",
-  "repository": "pcjs.org"
+  "version": "2.10",
+  "repository": "pcjs.org",
+  "archive": "/gamedisks/pcx86/game/other/1985/rogue/archive/ROGUE-1985/"
 },
 "volTable": [
   {

@@ -10,8 +10,9 @@
   "trackDefault": 9,
   "sectorDefault": 512,
   "diskSize": 368640,
-  "version": "2.00",
-  "repository": "pcjs.org"
+  "version": "2.10",
+  "repository": "pcjs.org",
+  "archive": "/gamedisks/pcx86/game/other/1985/kings_quest1/archive/KINGS_QUEST1-1985-09-04-DISK2.img"
 },
 "volTable": [
   {

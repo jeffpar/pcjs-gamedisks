@@ -3,7 +3,7 @@
   "type": "CHS",
   "name": "LIFE-AND-DEATH-II-1.img",
   "format": "PC363K*",
-  "hash": "b3da771979c3145b89ad8f5f65bf908a",
+  "hash": "85f80bc96a1a8dfa7533eeba172d8ccb",
   "checksum": -1589676326,
   "cylinders": 40,
   "heads": 2,
@@ -11,8 +11,9 @@
   "sectorDefault": 512,
   "diskSize": 371200,
   "bootSector": "[0,235,52,144,73,66,77,32,32,51,46,51,0,2,2,1,0,2,112,0,208,2,253,2,0,9,0,2,0,0,0,0,0,0,0,0,0]",
-  "version": "2.04",
-  "repository": "pcjs.org"
+  "version": "2.10",
+  "repository": "pcjs.org",
+  "archive": "/gamedisks/pcx86/game/other/1990/life_and_death_ii/archive/LIFE-AND-DEATH-II-1.img"
 },
 "volTable": [
   {

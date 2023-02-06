@@ -3,7 +3,7 @@
   "type": "CHS",
   "name": "DUNE2-1440K-DISK2.img",
   "format": "PC1440K",
-  "hash": "c4bba26831137e4ec873078fc5fc8f4e",
+  "hash": "0385ef3f6b43875f16bd4044eb59095f",
   "checksum": 465319792,
   "cylinders": 80,
   "heads": 2,
@@ -11,8 +11,9 @@
   "sectorDefault": 512,
   "diskSize": 1474560,
   "bootSector": "[0,235,52,144,77,83,68,79,83,51,46,51,0,2,1,1,0,2,224,0,64,11,240,9,0,18,0,2,0,0,0,0,0,0,0,0,0]",
-  "version": "2.04",
-  "repository": "pcjs.org"
+  "version": "2.10",
+  "repository": "pcjs.org",
+  "archive": "/gamedisks/pcx86/game/other/1992/dune2/archive/DUNE2-1440K-DISK2.img"
 },
 "volTable": [
   {

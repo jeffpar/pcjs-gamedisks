@@ -3,15 +3,16 @@
   "type": "CHS",
   "name": "ESUITE-1982",
   "format": "PC320K",
-  "hash": "none",
+  "hash": "915c35f00bbf33331c2b9b205853f0d2",
   "checksum": -899424014,
   "cylinders": 40,
   "heads": 2,
   "trackDefault": 8,
   "sectorDefault": 512,
   "diskSize": 327680,
-  "version": "2.00",
-  "repository": "pcjs.org"
+  "version": "2.10",
+  "repository": "pcjs.org",
+  "archive": "/gamedisks/pcx86/game/other/1982/esuite/archive/ESUITE-1982/"
 },
 "volTable": [
   {

@@ -10,8 +10,9 @@
   "trackDefault": 8,
   "sectorDefault": 512,
   "diskSize": 163840,
-  "version": "2.00",
-  "repository": "pcjs.org"
+  "version": "2.10",
+  "repository": "pcjs.org",
+  "archive": "/gamedisks/pcx86/game/infocom/hhiker/archive/HHIKER-READONLY.DSK"
 },
 "volTable": [
   {

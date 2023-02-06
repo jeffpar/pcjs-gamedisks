@@ -3,7 +3,7 @@
   "type": "CHS",
   "name": "101-MONOCHROME-MAZES.img",
   "format": "PC160K",
-  "hash": "a26df2b103a9573769f019f167fc0fea",
+  "hash": "035aed51f068b096f14dcca27d99e0bc",
   "checksum": 1202787824,
   "cylinders": 40,
   "heads": 1,
@@ -11,8 +11,9 @@
   "sectorDefault": 512,
   "diskSize": 163840,
   "bootSector": "[0,235,39,144,8,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]",
-  "version": "2.00",
-  "repository": "pcjs.org"
+  "version": "2.10",
+  "repository": "pcjs.org",
+  "archive": "/gamedisks/pcx86/game/ibm/101mazes/archive/101-MONOCHROME-MAZES.img"
 },
 "volTable": [
   {

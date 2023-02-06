@@ -3,15 +3,16 @@
   "type": "CHS",
   "name": "MORIA-1992",
   "format": "PC320K",
-  "hash": "none",
+  "hash": "666c9bf028c4a9d5bf3232d3e52c74d5",
   "checksum": 746359207,
   "cylinders": 40,
   "heads": 2,
   "trackDefault": 8,
   "sectorDefault": 512,
   "diskSize": 327680,
-  "version": "2.00",
-  "repository": "pcjs.org"
+  "version": "2.10",
+  "repository": "pcjs.org",
+  "archive": "/gamedisks/pcx86/game/other/1992/moria/archive/MORIA-1992/"
 },
 "volTable": [
   {

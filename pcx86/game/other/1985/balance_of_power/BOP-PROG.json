@@ -3,7 +3,7 @@
   "type": "CHS",
   "name": "BOP-PROG.img",
   "format": "PC361K*",
-  "hash": "7054fdeba14cb99511f2c7189c8f1259",
+  "hash": "aab51f8c00e051589278c4df34d91a2f",
   "checksum": -1972421858,
   "cylinders": 40,
   "heads": 2,
@@ -11,8 +11,9 @@
   "sectorDefault": 512,
   "diskSize": 369920,
   "bootSector": "[0,235,41,144,73,66,77,32,32,51,46,49,0,2,2,1,0,2,112,0,208,2,253,2,0,9,0,2,0,0,0,0,0,0,0,0,0]",
-  "version": "2.04",
-  "repository": "pcjs.org"
+  "version": "2.10",
+  "repository": "pcjs.org",
+  "archive": "/gamedisks/pcx86/game/other/1985/balance_of_power/archive/BOP-PROG.img"
 },
 "volTable": [
   {

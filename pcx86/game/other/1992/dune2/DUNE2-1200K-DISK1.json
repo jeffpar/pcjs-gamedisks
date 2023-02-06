@@ -3,7 +3,7 @@
   "type": "CHS",
   "name": "DUNE2-1200K-DISK1.img",
   "format": "PC1200K",
-  "hash": "f94bd76cb0bbbfea78f184889c62d455",
+  "hash": "9575aa4c88184a039564416a397c4f51",
   "checksum": 15916748,
   "cylinders": 80,
   "heads": 2,
@@ -11,8 +11,9 @@
   "sectorDefault": 512,
   "diskSize": 1228800,
   "bootSector": "[0,235,52,144,77,83,68,79,83,51,46,51,0,2,1,1,0,2,224,0,96,9,249,7,0,15,0,2,0,0,0,0,0,0,0,0,0]",
-  "version": "2.04",
-  "repository": "pcjs.org"
+  "version": "2.10",
+  "repository": "pcjs.org",
+  "archive": "/gamedisks/pcx86/game/other/1992/dune2/archive/DUNE2-1200K-DISK1.img"
 },
 "volTable": [
   {

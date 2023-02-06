@@ -3,15 +3,16 @@
   "type": "CHS",
   "name": "FLIGHTSIM-1984",
   "format": "PC320K",
-  "hash": "none",
+  "hash": "c9899b68e1cc033930ebbea0c9b75b68",
   "checksum": 500873747,
   "cylinders": 40,
   "heads": 2,
   "trackDefault": 8,
   "sectorDefault": 512,
   "diskSize": 327680,
-  "version": "2.00",
-  "repository": "pcjs.org"
+  "version": "2.10",
+  "repository": "pcjs.org",
+  "archive": "/gamedisks/pcx86/game/microsoft/flightsim/1984/archive/FLIGHTSIM-1984/"
 },
 "volTable": [
   {

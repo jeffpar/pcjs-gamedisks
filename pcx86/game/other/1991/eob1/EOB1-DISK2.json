@@ -3,7 +3,7 @@
   "type": "CHS",
   "name": "EOB1-DISK2.img",
   "format": "PC360K",
-  "hash": "c3b901a518a1feaf2f70a77e967c611f",
+  "hash": "ea013b271c7ec8a8a4a0755cec2dd3b3",
   "checksum": -1385110190,
   "cylinders": 40,
   "heads": 2,
@@ -11,8 +11,9 @@
   "sectorDefault": 512,
   "diskSize": 368640,
   "bootSector": "[0,235,52,144,77,83,68,79,83,51,46,51,0,2,2,1,0,2,112,0,208,2,253,2,0,9,0,2,0,0,0,0,0,0,0,0,0]",
-  "version": "2.04",
-  "repository": "pcjs.org"
+  "version": "2.10",
+  "repository": "pcjs.org",
+  "archive": "/gamedisks/pcx86/game/other/1991/eob1/archive/EOB1-DISK2.img"
 },
 "volTable": [
   {
