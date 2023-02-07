@@ -12,7 +12,8 @@
   "diskSize": 163840,
   "version": "2.10",
   "repository": "pcjs.org",
-  "archive": "/gamedisks/pcx86/game/other/1983/adventmath/archive/ADVENTMATH-100.img"
+  "archive": "/gamedisks/pcx86/game/other/1983/adventmath/archive/ADVENTMATH-100.img",
+  "source": "https://archive.org/details/large_dos_collection_2013_08"
 },
 "volTable": [
   {
