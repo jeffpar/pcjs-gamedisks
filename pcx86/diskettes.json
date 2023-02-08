@@ -1,0 +1,578 @@
+{
+  "@server": "/gamedisks",
+  "game": {
+    "@title": "Games",
+    "ibm": {
+      "@title": "IBM",
+      "@versions": {
+        "101mazes": {
+          "@title": "101 Monochrome Mazes (1983)",
+          "bootable": true,
+          "hardware": "/machines/pcx86/ibm/5150/mda/",
+          "@media": [
+            {
+              "@title": "101 Monochrome Mazes (1983)",
+              "@diskette": "101-MONOCHROME-MAZES.json",
+              "@format": "PC160K"
+            }
+          ]
+        }
+      }
+    },
+    "id": {
+      "@title": "Id Software",
+      "@versions": {
+        "commander_keen": {
+          "@title": "Commander Keen (1991)",
+          "@media": [
+            {
+              "@title": "Commander Keen: Episode One",
+              "@diskette": "KEEN1-V11.json",
+              "@format": "PC320K",
+              "@archive": "folder",
+              "@label": "KEEN1"
+            }
+          ]
+        },
+        "wolf3d": {
+          "@title": "Wolfenstein 3D (1993)",
+          "@media": [
+            {
+              "@title": "Wolfenstein 3D 1.4",
+              "@diskette": "1WOLF-V14.json",
+              "@format": "PC1200K"
+            }
+          ]
+        }
+      }
+    },
+    "infocom": {
+      "@title": "Infocom",
+      "@versions": {
+        "hhiker": {
+          "@title": "The Hitchhiker's Guide to the Galaxy",
+          "@media": [
+            {
+              "@title": "Hitchhiker's Guide",
+              "@diskette": "HHIKER-READONLY.json",
+              "@archive": ".DSK"
+            }
+          ]
+        },
+        "phobos": {
+          "@title": "Leather Goddesses of Phobos",
+          "@media": [
+            {
+              "@title": "Leather Goddesses of Phobos",
+              "@diskette": "PHOBOS.json"
+            }
+          ]
+        },
+        "planetfall": {
+          "@title": "Planetfall",
+          "@media": [
+            {
+              "@title": "Planetfall",
+              "@diskette": "PLANETFALL-READONLY.json",
+              "@archive": ".DSK"
+            }
+          ]
+        },
+        "zork1": {
+          "@title": "Zork I: The Great Underground Empire",
+          "@media": [
+            {
+              "@title": "Zork I",
+              "@diskette": "ZORK1-READONLY.json",
+              "@archive": ".DSK"
+            }
+          ]
+        },
+        "zork2": {
+          "@title": "Zork II: The Wizard of Frobozz ",
+          "@media": [
+            {
+              "@title": "Zork II",
+              "@diskette": "ZORK2-READONLY.json",
+              "@archive": ".DSK"
+            }
+          ]
+        },
+        "zork3": {
+          "@title": "Zork III: The Dungeon Master",
+          "@media": [
+            {
+              "@title": "Zork III",
+              "@diskette": "ZORK3-READONLY.json",
+              "@archive": ".DSK"
+            }
+          ]
+        }
+      }
+    },
+    "microsoft": {
+      "@title": "Microsoft",
+      "@versions": {
+        "adventure": {
+          "@title": "Microsoft Adventure",
+          "@media": [
+            {
+              "@title": "Microsoft Adventure",
+              "@diskette": "ADVENTURE-1981.json"
+            },
+            {
+              "@title": "Microsoft Adventure (Unmodified)",
+              "@diskette": "ADVENTURE-1981-UNMODIFIED.json",
+              "@archive": ".psi"
+            }
+          ],
+          "@documents": [
+            {
+              "@title": "Microsoft Adventure Manual",
+              "@file": "Adventure_Manual.pdf",
+              "@link": "https://gamedisks.pcjs.org/pcx86/game/microsoft/adventure/Adventure_Manual.pdf",
+              "@cover": ".jpg",
+              "@source": ""
+            }
+          ]
+        },
+        "flightsim/1982": {
+          "@title": "Flight Simulator (1982)",
+          "@hidden": true,
+          "@media": [
+            {
+              "@diskette": "FLIGHTSIM-1982.json",
+              "@format": "PC160K",
+              "@kryoflux": true
+            }
+          ]
+        },
+        "flightsim/1984": {
+          "@title": "Flight Simulator (1984)",
+          "@hardware": {
+            "options": "ibm,5160"
+          },
+          "@media": [
+            {
+              "@diskette": "FLIGHTSIM-1984.json",
+              "@format": "PC320K",
+              "@archive": "folder",
+              "@label": "FLIGHTSIM"
+            }
+          ]
+        }
+      }
+    },
+    "other": {
+      "@title": "Other",
+      "@versions": {
+        "1983/adventmath": {
+          "@title": "Adventures in Math (1983)",
+          "@media": [
+            {
+              "@title": "Adventures in Math 1.00",
+              "@diskette": "ADVENTMATH-100.json",
+              "@format": "PC160K",
+              "@label": "ADVEMATH100",
+              "@source": "https://archive.org/details/large_dos_collection_2013_08"
+            }
+          ],
+          "@author": "Scott A. Harris",
+          "@publisher": "IBM"
+        },
+        "1985/balance_of_power": {
+          "@title": "Balance of Power (1985)",
+          "@media": [
+            {
+              "@title": "Balance of Power (Build Disk)",
+              "@diskette": "BOP-BUILD.json",
+              "@format": "PC360K",
+              "@kryoflux": true
+            },
+            {
+              "@title": "Balance of Power (Program Disk)",
+              "@diskette": "BOP-PROG.json",
+              "@format": "PC360K",
+              "@kryoflux": true,
+              "@args": "--suppData=/software/pcx86/game/other/1985/balance_of_power/index.md"
+            },
+            {
+              "@title": "Balance of Power (Setup Disk)",
+              "@diskette": "BOP-SETUP.json",
+              "@format": "PC360K",
+              "@kryoflux": true
+            }
+          ],
+          "@author": "Chris Crawford"
+        },
+        "1985/castle_adventure": {
+          "@title": "Castle Adventure (1985)",
+          "@media": [
+            {
+              "@diskette": "CASTLE-ADVENTURE-1985.json",
+              "@format": "PC160K",
+              "@archive": "folder",
+              "@label": "CASTLE",
+              "@source": ""
+            }
+          ],
+          "@author": "Kevin Bales"
+        },
+        "1992/dune2": {
+          "@title": "Dune II (1992)",
+          "@media": [
+            {
+              "@title": "Dune II (1.2M Disk 1)",
+              "@diskette": "DUNE2-1200K-DISK1.json",
+              "@format": "PC1200K",
+              "@source": ""
+            },
+            {
+              "@title": "Dune II (1.2M Disk 2)",
+              "@diskette": "DUNE2-1200K-DISK2.json",
+              "@format": "PC1200K",
+              "@source": ""
+            },
+            {
+              "@title": "Dune II (1.2M Disk 3)",
+              "@diskette": "DUNE2-1200K-DISK3.json",
+              "@format": "PC1200K",
+              "@source": ""
+            },
+            {
+              "@title": "Dune II (1.2M Disk 4)",
+              "@diskette": "DUNE2-1200K-DISK4.json",
+              "@format": "PC1200K",
+              "@source": ""
+            },
+            {
+              "@title": "Dune II (1.2M Disk 5)",
+              "@diskette": "DUNE2-1200K-DISK5.json",
+              "@format": "PC1200K",
+              "@source": ""
+            },
+            {
+              "@title": "Dune II (1.44M Disk 1)",
+              "@diskette": "DUNE2-1440K-DISK1.json",
+              "@format": "PC1440K",
+              "@source": ""
+            },
+            {
+              "@title": "Dune II (1.44M Disk 2)",
+              "@diskette": "DUNE2-1440K-DISK2.json",
+              "@format": "PC1440K",
+              "@source": ""
+            },
+            {
+              "@title": "Dune II (1.44M Disk 3)",
+              "@diskette": "DUNE2-1440K-DISK3.json",
+              "@format": "PC1440K",
+              "@source": ""
+            },
+            {
+              "@title": "Dune II (1.44M Disk 4)",
+              "@diskette": "DUNE2-1440K-DISK4.json",
+              "@format": "PC1440K",
+              "@source": ""
+            }
+          ],
+          "@author": "Westwood Studios, Inc.",
+          "@documents": [
+            {
+              "@title": "Dune II Manual",
+              "@file": "DUNE2.pdf",
+              "@link": "https://1drv.ms/b/s!ArcO_mFRe1Z9iNsbYL9bFfNgR8LHhQ?e=QI1BTd",
+              "@embed": "https://onedrive.live.com/embed?cid=7D567B5161FE0EB7&resid=7D567B5161FE0EB7%21142747&authkey=AHsHrNq23yynffI&em=2",
+              "@cover": ".jpg",
+              "@source": ""
+            }
+          ]
+        },
+        "1982/esuite": {
+          "@title": "Executive Suite (1982)",
+          "@media": [
+            {
+              "@diskette": "ESUITE-1982.json",
+              "@format": "PC320K",
+              "@archive": "folder",
+              "@label": "ESUITE",
+              "@source": ""
+            }
+          ],
+          "@author": "Armonk Corporation"
+        },
+        "1991/eob1": {
+          "@title": "Eye of the Beholder (1991)",
+          "@media": [
+            {
+              "@title": "Eye of the Beholder (Disk 1)",
+              "@diskette": "EOB1-DISK1.json",
+              "@archive": ".img",
+              "@format": "PC360K",
+              "@kryoflux": true
+            },
+            {
+              "@title": "Eye of the Beholder (Disk 2)",
+              "@diskette": "EOB1-DISK2.json",
+              "@archive": ".img",
+              "@format": "PC360K",
+              "@kryoflux": true
+            },
+            {
+              "@title": "Eye of the Beholder (Disk 3)",
+              "@diskette": "EOB1-DISK3.json",
+              "@archive": ".img",
+              "@format": "PC360K",
+              "@kryoflux": true
+            },
+            {
+              "@title": "Eye of the Beholder (Disk 4)",
+              "@diskette": "EOB1-DISK4.json",
+              "@archive": ".img",
+              "@format": "PC360K",
+              "@kryoflux": true
+            },
+            {
+              "@title": "Eye of the Beholder (Disk 5)",
+              "@diskette": "EOB1-DISK5.json",
+              "@archive": ".img",
+              "@format": "PC360K",
+              "@kryoflux": true
+            }
+          ],
+          "@author": "Strategic Simulations, Inc."
+        },
+        "2019/invaders": {
+          "@title": "Invaders Boot Sector (2019)",
+          "@bootable": true,
+          "@hardware": {
+            "url": "/machines/pcx86/ibm/5150/vga/"
+          },
+          "@media": [
+            {
+              "@diskette": "INVADERS-BOOT.json",
+              "@format": "PC160K",
+              "@source": "https://github.com/nanochess/Invaders"
+            }
+          ]
+        },
+        "1985/kings_quest1": {
+          "@title": "King's Quest (1985)",
+          "@media": [
+            {
+              "@title": "King's Quest (1985-09-04 #1)",
+              "@diskette": "KINGS_QUEST1-1985-09-04-DISK1.json",
+              "@archive": ".psi",
+              "@format": "PC360K",
+              "@kryoflux": true
+            },
+            {
+              "@title": "King's Quest (1985-09-04 #2)",
+              "@diskette": "KINGS_QUEST1-1985-09-04-DISK2.json",
+              "@format": "PC360K",
+              "@kryoflux": true
+            }
+          ],
+          "@source": "https://archive.org/details/kingsquestipcbooter"
+        },
+        "1987/kings_quest1": {
+          "@title": "King's Quest (1987)",
+          "@media": [
+            {
+              "@title": "King's Quest (1987-05-05 #1)",
+              "@diskette": "KINGS_QUEST1-1987-05-05-DISK1.json",
+              "@archive": ".psi",
+              "@format": "PC360K",
+              "@kryoflux": true,
+              "@source": "https://archive.org/details/kingsquestipc"
+            },
+            {
+              "@title": "King's Quest (1987-05-05 #2)",
+              "@diskette": "KINGS_QUEST1-1987-05-05-DISK2.json",
+              "@format": "PC360K",
+              "@kryoflux": true,
+              "@source": "https://archive.org/details/kingsquestipc"
+            },
+            {
+              "@title": "King's Quest (1987-12-01 #1)",
+              "@diskette": "KINGS_QUEST1-1987-12-01-DISK1.json",
+              "@format": "PC360K",
+              "@source": "http://www.r-09.net/stuff/index.php?dir=Floppy"
+            },
+            {
+              "@title": "King's Quest (1987-12-01 #2)",
+              "@diskette": "KINGS_QUEST1-1987-12-01-DISK2.json",
+              "@format": "PC360K",
+              "@source": "http://www.r-09.net/stuff/index.php?dir=Floppy"
+            }
+          ]
+        },
+        "1991/lemmings": {
+          "@title": "Lemmings (1991)",
+          "@media": [
+            {
+              "@title": "Lemmings (1991)",
+              "@diskette": "LEMMINGS-1991.json",
+              "@format": "PC1200K",
+              "@archive": "folder",
+              "@label": "LEMMINGS",
+              "@source": ""
+            }
+          ],
+          "@author": "DMA Design",
+          "@publisher": "Psygnosis"
+        },
+        "1990/life_and_death_ii": {
+          "@title": "Life & Death II (1990)",
+          "@media": [
+            {
+              "@title": "Life & Death II (Disk 1)",
+              "@diskette": "LIFE-AND-DEATH-II-1.json",
+              "@archive": ".img",
+              "@format": "PC360K",
+              "@kryoflux": true,
+              "@args": "--suppData=/software/pcx86/game/other/1990/life_and_death_ii/index.md"
+            },
+            {
+              "@title": "Life & Death II (Disk 2)",
+              "@diskette": "LIFE-AND-DEATH-II-2.json",
+              "@archive": ".img",
+              "@format": "PC1200K",
+              "@kryoflux": true
+            },
+            {
+              "@title": "Life & Death II (Disk 3)",
+              "@diskette": "LIFE-AND-DEATH-II-3.json",
+              "@archive": ".img",
+              "@format": "PC1200K",
+              "@kryoflux": true
+            }
+          ],
+          "@author": "The Software Toolworks"
+        },
+        "1992/moria": {
+          "@title": "Moria (1992)",
+          "@media": [
+            {
+              "@diskette": "MORIA-1992.json",
+              "@format": "PC320K",
+              "@archive": "folder",
+              "@label": "MORIA",
+              "@source": ""
+            }
+          ],
+          "@author": [
+            "Robert A. Koeneke",
+            "Jimmey W. Todd Jr.",
+            "David J. Grabiner",
+            "James E. Wilson"
+          ],
+          "@version": "5.5"
+        },
+        "1985/nine_princes": {
+          "@title": "Nine Princes in Amber (1985)",
+          "@media": [
+            {
+              "@title": "Nine Princes in Amber (Disk A)",
+              "@diskette": "NINE-PRINCES-A.json",
+              "@label": "AMBER-1",
+              "@archive": "folder",
+              "@format": "PC360K",
+              "@kryoflux": true,
+              "@args": "--suppData=/software/pcx86/game/other/1985/nine_princes/index.md"
+            },
+            {
+              "@title": "Nine Princes in Amber (Disk B)",
+              "@diskette": "NINE-PRINCES-B.json",
+              "@label": "AMBER-2",
+              "@archive": "folder",
+              "@format": "PC360K",
+              "@kryoflux": true
+            }
+          ],
+          "@author": "Telarium"
+        },
+        "1990/oregon_trail": {
+          "@title": "The Oregon Trail (1990)",
+          "@media": [
+            {
+              "@title": "Oregon Trail 2.1 (1990)",
+              "@diskette": "OREGON_TRAIL-210.json",
+              "@format": "PC1200K",
+              "@source": ""
+            }
+          ],
+          "@author": "MECC",
+          "@version": "2.1"
+        },
+        "1989/populous": {
+          "@title": "Populous (1989)",
+          "@media": [
+            {
+              "@title": "Populous (1989)",
+              "@diskette": "POPULOUS-1989.json",
+              "@archive": ".img",
+              "@format": "PC360K",
+              "@kryoflux": true
+            }
+          ],
+          "@author": [
+            "Bullfrog Productions",
+            "Peter Molyneux"
+          ]
+        },
+        "1985/rogue": {
+          "@title": "Rogue (1985)",
+          "@media": [
+            {
+              "@diskette": "ROGUE-1985.json",
+              "@format": "PC160K",
+              "@archive": "folder",
+              "@label": "ROGUE",
+              "@source": ""
+            }
+          ],
+          "@author": [
+            "Ken Arnold",
+            "Jon Lane",
+            "Michael Toy"
+          ],
+          "@version": "1.49"
+        },
+        "1988/trump_castle": {
+          "@title": "Trump Castle (1988)",
+          "@media": [
+            {
+              "@title": "Trump Castle 1.20 (1988)",
+              "@diskette": "TRUMP-CASTLE-120.json",
+              "@format": "PC1200K",
+              "@archive": "folder",
+              "@label": "TRUMP",
+              "@source": ""
+            }
+          ],
+          "@version": "1.20"
+        },
+        "1984/wizardry1": {
+          "@title": "Wizardry I (1984)",
+          "@media": [
+            {
+              "@title": "Wizardry I - Master Disk",
+              "@diskette": "WIZARDRY1-MASTER.json",
+              "@format": "PC320K",
+              "@source": ""
+            },
+            {
+              "@title": "Wizardry I - Scenario Disk",
+              "@diskette": "WIZARDRY1-SCENARIO.json",
+              "@format": "PC320K",
+              "@source": ""
+            }
+          ],
+          "@author": "Sir-Tech Software",
+          "@version": "1.0"
+        }
+      }
+    }
+  }
+}
