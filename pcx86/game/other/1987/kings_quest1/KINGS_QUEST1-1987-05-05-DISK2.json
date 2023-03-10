@@ -13,7 +13,6 @@
   "bootSector": "[0,235,44,144,73,66,77,32,32,50,46,48,0,2,2,1,0,2,112,0,208,2,253,2,0,9,0,2,0,0,0,0,0,10,223,2,37]",
   "version": "2.10",
   "repository": "pcjs.org",
-  "archive": "/gamedisks/pcx86/game/other/1987/kings_quest1/archive/KINGS_QUEST1-1987-05-05-DISK2.img",
   "source": "https://archive.org/details/kingsquestipc"
 },
 "volTable": [

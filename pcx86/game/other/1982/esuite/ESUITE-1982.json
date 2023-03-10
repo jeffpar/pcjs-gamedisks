@@ -11,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 327680,
   "version": "2.10",
-  "repository": "pcjs.org",
-  "archive": "/gamedisks/pcx86/game/other/1982/esuite/archive/ESUITE-1982/"
+  "repository": "pcjs.org"
 },
 "volTable": [
  {

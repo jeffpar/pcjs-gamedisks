@@ -12,7 +12,6 @@
   "diskSize": 163840,
   "version": "2.10",
   "repository": "pcjs.org",
-  "archive": "/gamedisks/pcx86/game/other/2019/invaders/archive/INVADERS-BOOT.img",
   "source": "https://github.com/nanochess/Invaders"
 },
 "volTable": [

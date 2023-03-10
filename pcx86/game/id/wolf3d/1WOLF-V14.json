@@ -11,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 1228800,
   "version": "2.10",
-  "repository": "pcjs.org",
-  "archive": "/gamedisks/pcx86/game/id/wolf3d/archive/1WOLF-V14.img"
+  "repository": "pcjs.org"
 },
 "volTable": [
  {

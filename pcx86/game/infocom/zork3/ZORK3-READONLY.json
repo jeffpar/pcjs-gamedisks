@@ -11,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 163840,
   "version": "2.10",
-  "repository": "pcjs.org",
-  "archive": "/gamedisks/pcx86/game/infocom/zork3/archive/ZORK3-READONLY.DSK"
+  "repository": "pcjs.org"
 },
 "volTable": [
  {
