@@ -11,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 368768,
   "version": "2.10",
-  "repository": "pcjs.org",
-  "archive": "/gamedisks/pcx86/game/other/1985/nine_princes/archive/NINE-PRINCES-A/"
+  "repository": "pcjs.org"
 },
 "volTable": [
  {
