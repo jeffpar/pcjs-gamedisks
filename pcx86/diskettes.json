@@ -194,7 +194,7 @@
               "@diskette": "BOP-PROG.json",
               "@format": "PC360K",
               "@kryoflux": true,
-              "@args": "--suppData=/software/pcx86/game/other/1985/balance_of_power/index.md"
+              "@args": "--suppData=/software/pcx86/game/other/1985/balance_of_power/README.md"
             },
             {
               "@title": "Balance of Power (Setup Disk)",
@@ -461,7 +461,7 @@
               "@archive": ".img",
               "@format": "PC360K",
               "@kryoflux": true,
-              "@args": "--suppData=/software/pcx86/game/other/1990/life_and_death_ii/index.md"
+              "@args": "--suppData=/software/pcx86/game/other/1990/life_and_death_ii/README.md"
             },
             {
               "@title": "Life & Death II (Disk 2)",
@@ -509,7 +509,7 @@
               "@archive": "folder",
               "@format": "PC360K",
               "@kryoflux": true,
-              "@args": "--suppData=/software/pcx86/game/other/1985/nine_princes/index.md"
+              "@args": "--suppData=/software/pcx86/game/other/1985/nine_princes/README.md"
             },
             {
               "@title": "Nine Princes in Amber (Disk B)",
