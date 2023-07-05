@@ -1,9 +1,10 @@
 {
 "imageInfo": {
   "type": "CHS",
-  "name": "ADVENTURE-1981-UNMODIFIED.psi",
+  "name": "ADVENTURE-1981-UNMODIFIED.PSI",
   "format": "Unknown*",
   "hash": "none",
+  "checksum": 0,
   "diskSize": 124416,
   "version": "2.10",
   "repository": "pcjs.org"

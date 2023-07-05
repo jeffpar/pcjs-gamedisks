@@ -1,9 +1,10 @@
 {
 "imageInfo": {
   "type": "CHS",
-  "name": "KINGS_QUEST1-1987-05-05-DISK1.psi",
+  "name": "KINGS_QUEST1-1987-05-05-DISK1.PSI",
   "format": "Unknown*",
   "hash": "none",
+  "checksum": 0,
   "diskSize": 379392,
   "version": "2.10",
   "repository": "pcjs.org",
