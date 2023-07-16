@@ -441,7 +441,66 @@
               "@photo": "jpg"
             }
           ],
-          "@source": "https://archive.org/details/000757-HerosQuestSoYouWantToBeAHero"
+          "@documents": [
+            {
+              "@title": "Hero's Quest I Box (Front)",
+              "@file": "HEROS-QUEST1-BOX-FRONT.jpg"
+            },
+            {
+              "@title": "Hero's Quest I Box (Back)",
+              "@file": "HEROS-QUEST1-BOX-BACK.jpg"
+            },
+            {
+              "@title": "Hero's Quest I Box (Inner)",
+              "@file": "HEROS-QUEST1-BOX-INNER.jpg"
+            },
+            {
+              "@title": "Hero's Quest I Game Manual",
+              "@file": "HEROS-QUEST1-GAME-MANUAL.jpg",
+              "@link": "https://archive.org/details/heros-quest-1"
+            },
+            {
+              "@title": "Hero's Quest I Famous Adventurer's Correspondence School",
+              "@file": "HEROS-QUEST1-CORRESPONDENCE-SCHOOL.jpg",
+              "@link": "https://archive.org/details/heros-quest-1"
+            },
+            {
+              "@title": "Hero's Quest I Copy Protection",
+              "@file": "HEROS-QUEST1-COPY-PROTECTION.jpg",
+              "@link": "https://archive.org/details/heros-quest-1"
+            },
+            {
+              "@title": "Hero's Quest I Letter from Ken Williams",
+              "@file": "HEROS-QUEST1-KEN-WILLIAMS.jpg",
+              "@link": "https://archive.org/details/heros-quest-1"
+            },
+            {
+              "@title": "Hero's Quest I PRODIGY Brochure",
+              "@file": "HEROS-QUEST1-PRODIGY.jpg",
+              "@link": "https://archive.org/details/heros-quest-1"
+            },
+            {
+              "@title": "Hero's Quest I Reference Card",
+              "@file": "HEROS-QUEST1-REFERENCE-CARD.jpg",
+              "@link": "https://archive.org/details/heros-quest-1"
+            },
+            {
+              "@title": "Hero's Quest I Reference Card for MS-DOS",
+              "@file": "HEROS-QUEST1-REFERENCE-CARD-MSDOS.jpg",
+              "@link": "https://archive.org/details/heros-quest-1"
+            },
+            {
+              "@title": "Hero's Quest I Sound Products",
+              "@file": "HEROS-QUEST1-SOUND-PRODUCTS.jpg",
+              "@link": "https://archive.org/details/heros-quest-1"
+            },
+            {
+              "@title": "Hero's Quest I Warranty Registration",
+              "@file": "HEROS-QUEST1-WARRANTY-REGISTRATION.jpg",
+              "@link": "https://archive.org/details/heros-quest-1"
+            }
+          ],
+          "@source": "PCjs"
         },
         "2019/invaders": {
           "@title": "Invaders Boot Sector (2019)",
